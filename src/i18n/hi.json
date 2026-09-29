@@ -1,0 +1,74 @@
+{
+  "brandName": "Kirana Ledger",
+  "tagline": "बोलके हिसाब रखो।",
+  "subline": "आपकी दुकान की बही, AI की समझ से।",
+  "role": {
+    "shopkeeper": "दुकानदार",
+    "customer": "ग्राहक",
+    "switchRole": "रोल बदलें"
+  },
+  "nav": {
+    "overview": "होम",
+    "ledger": "खाता बही",
+    "inventory": "स्टॉक",
+    "bills": "बिल",
+    "reminders": "तगादा",
+    "insights": "आंकड़े",
+    "more": "अन्य",
+    "settings": "सेटिंग्स",
+    "tests": "परीक्षण"
+  },
+  "home": {
+    "greeting": "नमस्ते",
+    "glance": "दुकान का आज का हिसाब",
+    "inputPlaceholder": "बोलें या लिखें: 'रमेश ने 500 का सामान लिया'...",
+    "speak": "बोलें 🎙️",
+    "send": "दर्ज करें",
+    "trySaying": "ऐसे बोलकर देखें:",
+    "servingMode": "रश मोड (Hands-Free)",
+    "rozKaHisaab": "रोज का हिसाब"
+  },
+  "metrics": {
+    "totalOutstanding": "कुल बाकी (उधार)",
+    "creditThisWeek": "इस हफ्ते दिया उधार",
+    "paymentsThisWeek": "इस हफ्ते जमा हुआ",
+    "customersWithDues": "बाकी वाले ग्राहक",
+    "lowStockAlert": "कम स्टॉक सामान",
+    "openDisputes": "सुलझाने योग्य विवाद"
+  },
+  "ledger": {
+    "whoOwes": "किसका कितना बाकी है?",
+    "payment": "जमा (Payment)",
+    "credit": "उधार (Credit)",
+    "due": "बाकी",
+    "recentActive": "सक्रिय हाल में",
+    "dueSoon": "उधार बाकी",
+    "overdue": "30 दिन से पुराना",
+    "addTxFor": "खाता दर्ज करें",
+    "confirmedByCustomer": "ग्राहक द्वारा सत्यापित ✓"
+  },
+  "inventory": {
+    "title": "दुकान का सामान (स्टॉक)",
+    "inStock": "उपलब्ध",
+    "lowStock": "कम स्टॉक",
+    "outOfStock": "खत्म हो गया",
+    "stockIn": "+ माल आया",
+    "stockOut": "− माल बिका"
+  },
+  "bills": {
+    "title": "पर्ची व बिल",
+    "unpaid": "बाकी",
+    "partiallyPaid": "आंशिक जमा",
+    "paid": "पूर्ण चुकता",
+    "shareBill": "रसीद भेजें"
+  },
+  "customerMode": {
+    "myKhata": "मेरा खाता",
+    "shopsOwed": "जिन दुकानों पर आपका हिसाब है",
+    "totalDue": "कुल देनदारी",
+    "sahiHai": "सही है ✓",
+    "galatHai": "आपत्ति दर्ज करें",
+    "payShop": "UPI से चुकाएं",
+    "scanQr": "दुकानदार का UPI QR"
+  }
+}

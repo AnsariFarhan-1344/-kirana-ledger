@@ -1,0 +1,74 @@
+{
+  "brandName": "Kirana Ledger",
+  "tagline": "बोलून हिशोब ठेवा.",
+  "subline": "तुमच्या दुकानाची वही, AI च्या साथीने.",
+  "role": {
+    "shopkeeper": "दुकानदार",
+    "customer": "ग्राहक",
+    "switchRole": "भूमिका बदला"
+  },
+  "nav": {
+    "overview": "मुख्य",
+    "ledger": "खातेवही",
+    "inventory": "साठा (स्टॉक)",
+    "bills": "पावती/बिल",
+    "reminders": "उधारी आठवण",
+    "insights": "हिशोब आकडे",
+    "more": "अधिक",
+    "settings": "सेटिंग्ज",
+    "tests": "चाचण्या"
+  },
+  "home": {
+    "greeting": "नमस्कार",
+    "glance": "आजचा दुकानाचा आढावा",
+    "inputPlaceholder": "बोला किंवा लिहा: 'रमेशने 500 रुपयांचा माल घेतला'...",
+    "speak": "बोला 🎙️",
+    "send": "नोंदवा",
+    "trySaying": "असे बोलून बघा:",
+    "servingMode": "रश मोड (Hands-Free)",
+    "rozKaHisaab": "दैनिक हिशोब"
+  },
+  "metrics": {
+    "totalOutstanding": "एकूण येणे (उधारी)",
+    "creditThisWeek": "या आठवड्यातील उधारी",
+    "paymentsThisWeek": "या आठवड्यातील जमा",
+    "customersWithDues": "उधारी बाकी ग्राहक",
+    "lowStockAlert": "कमी साठा वस्तू",
+    "openDisputes": "तक्रारी"
+  },
+  "ledger": {
+    "whoOwes": "सर्वात जास्त उधारी कोणाकडे?",
+    "payment": "जमा (Payment)",
+    "credit": "उधारी (Credit)",
+    "due": "बाकी",
+    "recentActive": "नुकतेच व्यवहार",
+    "dueSoon": "उधारी बाकी",
+    "overdue": "३० दिवसांहून अधिक",
+    "addTxFor": "नोंद करा",
+    "confirmedByCustomer": "ग्राहकाने मान्य केले ✓"
+  },
+  "inventory": {
+    "title": "दुकानातील साठा (स्टॉक)",
+    "inStock": "उपलब्ध",
+    "lowStock": "कमी साठा",
+    "outOfStock": "संपला",
+    "stockIn": "+ माल आला",
+    "stockOut": "− माल गेला"
+  },
+  "bills": {
+    "title": "पावत्या आणि बिले",
+    "unpaid": "बाकी",
+    "partiallyPaid": "अंशतः जमा",
+    "paid": "पूर्ण फेडले",
+    "shareBill": "पावती पाठवा"
+  },
+  "customerMode": {
+    "myKhata": "माझे खाते",
+    "shopsOwed": "दुकानांचा हिशोब व येणे",
+    "totalDue": "एकूण देणे",
+    "sahiHai": "बरोबर आहे ✓",
+    "galatHai": "तक्रार नोंदवा",
+    "payShop": "UPI द्वारे द्या",
+    "scanQr": "दुकानदाराचा UPI QR"
+  }
+}

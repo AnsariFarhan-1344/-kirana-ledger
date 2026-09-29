@@ -1,0 +1,74 @@
+{
+  "brandName": "Kirana Ledger",
+  "tagline": "Bolke hisaab rakho.",
+  "subline": "Your shop's ledger, understood by AI.",
+  "role": {
+    "shopkeeper": "Shopkeeper",
+    "customer": "Customer",
+    "switchRole": "Switch View"
+  },
+  "nav": {
+    "overview": "Overview",
+    "ledger": "Ledger",
+    "inventory": "Inventory",
+    "bills": "Bills",
+    "reminders": "Reminders",
+    "insights": "Insights",
+    "more": "More",
+    "settings": "Settings",
+    "tests": "Tests"
+  },
+  "home": {
+    "greeting": "Namaste",
+    "glance": "Your shop at a glance",
+    "inputPlaceholder": "Speak or type: 'Ramesh took 500 rs groceries'...",
+    "speak": "Speak 🎙️",
+    "send": "Process",
+    "trySaying": "Try saying:",
+    "servingMode": "Serving Mode",
+    "rozKaHisaab": "Daily Closing"
+  },
+  "metrics": {
+    "totalOutstanding": "Total Outstanding",
+    "creditThisWeek": "Credit Given (Week)",
+    "paymentsThisWeek": "Payments Received (Week)",
+    "customersWithDues": "Customers With Dues",
+    "lowStockAlert": "Low Stock Items",
+    "openDisputes": "Open Disputes"
+  },
+  "ledger": {
+    "whoOwes": "Who owes the most?",
+    "payment": "Payment",
+    "credit": "Credit / Udhaar",
+    "due": "Due",
+    "recentActive": "Recently active",
+    "dueSoon": "Payment due",
+    "overdue": "Overdue (>30d)",
+    "addTxFor": "Record transaction for",
+    "confirmedByCustomer": "Confirmed by customer ✓"
+  },
+  "inventory": {
+    "title": "Shop Inventory",
+    "inStock": "In Stock",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock",
+    "stockIn": "+ Stock IN",
+    "stockOut": "− Stock OUT"
+  },
+  "bills": {
+    "title": "Bills & Parchis",
+    "unpaid": "Unpaid",
+    "partiallyPaid": "Partially Paid",
+    "paid": "Paid",
+    "shareBill": "Share Receipt"
+  },
+  "customerMode": {
+    "myKhata": "My Khata (माझे खाते)",
+    "shopsOwed": "Shops you owe or have balance with",
+    "totalDue": "Total Due",
+    "sahiHai": "Sahi hai ✓",
+    "galatHai": "Raise Dispute",
+    "payShop": "Pay via UPI",
+    "scanQr": "Scan Merchant UPI QR"
+  }
+}

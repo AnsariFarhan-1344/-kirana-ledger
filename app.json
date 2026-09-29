@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "Kirana Ledger",
+    "slug": "kirana-ledger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "kiranaledger",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.kiranaledger.app",
+      "infoPlist": {
+        "NSSpeechRecognitionUsageDescription": "Kirana Ledger uses speech recognition to convert spoken udhaar and payment sentences into ledger entries. (किराना लेजर आपकी आवाज से हिसाब लिखने के लिए स्पीच रिकग्निशन का उपयोग करता है।)",
+        "NSMicrophoneUsageDescription": "Kirana Ledger needs microphone access to listen to your voice ledger entries. (दुकान का हिसाब बोलकर दर्ज करने के लिए माइक्रोफोन की आवश्यकता है।)",
+        "NSCameraUsageDescription": "Kirana Ledger uses camera to scan product barcodes and notebook pages. (सामान का बारकोड या पुरानी बही स्कैन करने के लिए कैमरा आवश्यक है।)"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#16A34A"
+      },
+      "package": "com.kiranaledger.app",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.CAMERA",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.INTERNET"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#16A34A"
+        }
+      ]
+    ]
+  }
+}
