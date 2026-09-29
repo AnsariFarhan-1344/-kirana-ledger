@@ -43,6 +43,12 @@
           "color": "#16A34A"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d7de872d-5bc1-4781-8565-cd1fd4123387"
+      }
+    },
+    "owner": "farhan_ansari_1344"
   }
 }
